@@ -38,6 +38,3 @@ ehthumbs.db
 $RECYCLE.BIN/
 
 .sf/config.json
-
-# Removing sfdx-project.json from Gearset source in order to prevent confusion of Gearset systems
-sfdx-project.json
