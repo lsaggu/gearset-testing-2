@@ -1,0 +1,13 @@
+{
+    "packageDirectories": [
+      {
+        "path": "unpackaged",
+        "default": true
+      }
+    ],
+    "name": "gearset-testing-2",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "56.0"
+  }
+  
